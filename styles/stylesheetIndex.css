@@ -1,0 +1,39 @@
+
+img {
+    width: 243px;
+    height: 137px;;
+    margin-top: 280px;
+    margin-left: 823px;
+}
+h1 {
+    font-family: Fugaz One;
+    text-align: center;
+    margin-top: -70px;
+    font-size: 128px;
+    color: white;
+}
+body {
+    background: linear-gradient( 90deg, #FB6900 0% 25%, #F63700 25% 50%, #004853 50% 75%, #00B9BD 75% 100%);
+    overflow: hidden;
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    list-style: none;
+}
+a {
+    display: block;
+    text-align: center;
+    padding: 158px;
+    color: white;
+    text-decoration: none;
+    font-family: Alata;
+    font-size: 36px;
+}
+nav {
+    margin-top: -100px;
+}
