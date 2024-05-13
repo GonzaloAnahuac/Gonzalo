@@ -1,0 +1,159 @@
+body{
+    overflow-x: hidden;
+    background: linear-gradient( 90deg, #F63700 0% 25%, #F63700  75% 100%);
+}
+.div1 {
+    background: linear-gradient( 90deg, #FB6900 0% 25%, #F63700 25% 50%, #004853 50% 75%, #00B9BD 75% 100%);
+    height: 148px;
+    width: 1920;
+    margin: -20px;
+    padding-top: 20px;  
+}
+header ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+    list-style: none;
+}
+.yes{
+    display: block;
+    text-align: center;
+    margin: -98px 150px 0 110px;
+    color: white;
+    text-decoration: none;
+    font-family: Alata;
+    font-size: 36px;
+}
+.div3 {   
+    background-color: #BD2A00;
+    height: 130px;
+    min-width: 1920px;
+    margin-top: 250px;
+}
+.imglogo {
+    height: 110px;
+    width: 166px;
+    margin-top: 15px;
+    margin-left: 130px;
+}
+footer div{
+    margin-top: -100px;
+}
+footer ul {
+    display:inline-block;
+    justify-content: space-evenly;
+    text-align: left;
+    list-style: none;
+}
+.yes2 {
+    color: white;
+    text-decoration: none;
+    font-family: Alata;
+    font-size: 16px;
+    margin-left: 300px;
+}
+.yes3 {
+    color: white;
+    text-decoration: none;
+    font-family: Alata;
+    font-size: 16px;
+    margin-left: 30px;
+}
+footer p{
+    color: white;
+    text-align: right;
+    font-family: Alata;
+    font-size: 16px;
+    margin-right: 145px;
+    margin-top: -55px;
+    padding: 10px 10px 10px 10px;
+}
+p{
+    font-family: fugaz one;
+    font-size: 32px;
+    color: white;
+}
+.textcolor{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Alata;
+}
+.software{
+    color: white;
+    text-decoration: none;
+    font-size: 64px;
+    font-family: fugaz one; 
+    margin-top: 250px;
+    margin-left: 400px;
+    margin-bottom: -80px;
+}
+.cv{
+    color: white;
+    text-decoration: none;
+    font-size: 64px;
+    font-family: fugaz one; 
+    margin-top: -30px;
+    margin-left: 1340px;
+    margin-bottom: -80px;
+}
+.experience {
+    color: #FFF;
+    font-family: "Fugaz One";
+    font-size: 64px;
+    transform: rotate(-90deg);
+}
+.experiencediv {
+    margin-top: -180px;
+}
+.imgsoftware{
+    display: list-item;
+    width: 100px;
+    height: 81px;
+    margin: 330px 20px 50px 190px;
+}
+.imgsoftware2{
+    display: list-item;
+    width: 100px;
+    height: 81px;
+    margin: 140px 20px 50px 190px;
+}
+.imgsoftware3{
+    display: list-item;
+    width: 100px;
+    height: 81px;
+    margin: -795px 20px 50px 1060px;
+}
+.imgsoftware4{
+    display: list-item;
+    width: 100px;
+    height: 81px;
+    margin: 140px 20px 50px 1060px;
+}
+content ul {
+    list-style: none;
+}
+content div p {
+    font-size: 25px;
+    font-family: alata;
+}
+.description {
+    margin: -790px 20px 0px 370px;
+}
+.description2 {
+    margin: 140px 20px 0px 370px;
+}
+.description3 {
+    margin: -775px 20px 0px 1240px;
+}
+.description4 {
+    margin: 140px 20px 0px 1240px;
+}
+.rectangle {
+    border-radius: 30px;
+    height: 750px;
+    width: 120px;
+    background-color: #d42a00;
+    margin: -750px 0px 350px 895px;
+}
